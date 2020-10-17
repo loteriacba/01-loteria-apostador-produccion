@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1602898755403,
+  "timestamp": 1602933589615,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -20,7 +20,9 @@
         "/runtime.acf0dec4155e77772545.js",
         "/styles.0e4338761429b4eb16ac.css"
       ],
-      "patterns": []
+      "patterns": [
+        "https:\\/\\/stackpath\\.bootstrapcdn\\.com\\/bootstrap\\/.*"
+      ]
     },
     {
       "name": "assets",
