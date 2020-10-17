@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1602935114807,
+  "timestamp": 1602935633177,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -11,6 +11,8 @@
         "ignoreVary": true
       },
       "urls": [
+        "/assets/css/util.css",
+        "/assets/fonts/font-awesome-4.7.0/css/font-awesome.min.css",
         "/assets/vendor/animate/animate.css",
         "/favicon.ico",
         "/index.html",
@@ -34,7 +36,6 @@
       },
       "urls": [
         "/assets/css/main.css",
-        "/assets/css/util.css",
         "/assets/demo.png",
         "/assets/fonts/Linearicons-Free-v1.0.0/WebFont/Linearicons-Free.eot",
         "/assets/fonts/Linearicons-Free-v1.0.0/WebFont/Linearicons-Free.svg",
@@ -44,7 +45,6 @@
         "/assets/fonts/Linearicons-Free-v1.0.0/icon-font.min.css",
         "/assets/fonts/font-awesome-4.7.0/HELP-US-OUT.txt",
         "/assets/fonts/font-awesome-4.7.0/css/font-awesome.css",
-        "/assets/fonts/font-awesome-4.7.0/css/font-awesome.min.css",
         "/assets/fonts/font-awesome-4.7.0/fonts/FontAwesome.otf",
         "/assets/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.eot",
         "/assets/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.svg",
