@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1602935633177,
+  "timestamp": 1602935835306,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -11,6 +11,7 @@
         "ignoreVary": true
       },
       "urls": [
+        "/assets/css/main.css",
         "/assets/css/util.css",
         "/assets/fonts/font-awesome-4.7.0/css/font-awesome.min.css",
         "/assets/vendor/animate/animate.css",
@@ -35,7 +36,6 @@
         "ignoreVary": true
       },
       "urls": [
-        "/assets/css/main.css",
         "/assets/demo.png",
         "/assets/fonts/Linearicons-Free-v1.0.0/WebFont/Linearicons-Free.eot",
         "/assets/fonts/Linearicons-Free-v1.0.0/WebFont/Linearicons-Free.svg",
