@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1602933589615,
+  "timestamp": 1602935114807,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -11,6 +11,7 @@
         "ignoreVary": true
       },
       "urls": [
+        "/assets/vendor/animate/animate.css",
         "/favicon.ico",
         "/index.html",
         "/main.4797e639257391cac5f3.js",
@@ -136,8 +137,7 @@
         "/assets/images/icons/favicon.ico",
         "/assets/images/icons/icon-google.png",
         "/assets/images/icons/map-marker.png",
-        "/assets/images/icons/symbol-01.png",
-        "/assets/vendor/animate/animate.css"
+        "/assets/images/icons/symbol-01.png"
       ],
       "patterns": []
     }
