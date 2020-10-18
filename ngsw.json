@@ -1,7 +1,7 @@
 {
   "configVersion": 1,
-  "timestamp": 1603054392147,
-  "index": "/index.html",
+  "timestamp": 1603054761998,
+  "index": "/01-loteria-apostador-produccion/index.html",
   "assetGroups": [
     {
       "name": "app",
@@ -10,21 +10,7 @@
       "cacheQueryOptions": {
         "ignoreVary": true
       },
-      "urls": [
-        "/assets/css/main.css",
-        "/assets/css/util.css",
-        "/assets/fonts/font-awesome-4.7.0/css/font-awesome.min.css",
-        "/assets/images/icons/favicon.ico",
-        "/assets/vendor/animate/animate.css",
-        "/favicon.ico",
-        "/index.html",
-        "/main.3aa9a18fe7b267497e74.js",
-        "/manifest.webmanifest",
-        "/polyfills-es5.ef26090420eaac08abb3.js",
-        "/polyfills.7aa99d0d2d925cfabce1.js",
-        "/runtime.acf0dec4155e77772545.js",
-        "/styles.0e4338761429b4eb16ac.css"
-      ],
+      "urls": [],
       "patterns": [
         "https:\\/\\/stackpath\\.bootstrapcdn\\.com\\/bootstrap\\/.*"
       ]
@@ -37,6 +23,8 @@
         "ignoreVary": true
       },
       "urls": [
+        "/assets/css/main.css",
+        "/assets/css/util.css",
         "/assets/demo.png",
         "/assets/favicon.ico",
         "/assets/fonts/Linearicons-Free-v1.0.0/WebFont/Linearicons-Free.eot",
@@ -47,6 +35,7 @@
         "/assets/fonts/Linearicons-Free-v1.0.0/icon-font.min.css",
         "/assets/fonts/font-awesome-4.7.0/HELP-US-OUT.txt",
         "/assets/fonts/font-awesome-4.7.0/css/font-awesome.css",
+        "/assets/fonts/font-awesome-4.7.0/css/font-awesome.min.css",
         "/assets/fonts/font-awesome-4.7.0/fonts/FontAwesome.otf",
         "/assets/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.eot",
         "/assets/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.svg",
@@ -167,6 +156,7 @@
         "/assets/icons/iconos-generados/ms-icon-310x310.png",
         "/assets/icons/iconos-generados/ms-icon-70x70.png",
         "/assets/images/demo.png",
+        "/assets/images/icons/favicon.ico",
         "/assets/images/icons/icon-128x128.png",
         "/assets/images/icons/icon-144x144.png",
         "/assets/images/icons/icon-152x152.png",
@@ -177,7 +167,8 @@
         "/assets/images/icons/icon-96x96.png",
         "/assets/images/icons/icon-google.png",
         "/assets/images/icons/map-marker.png",
-        "/assets/images/icons/symbol-01.png"
+        "/assets/images/icons/symbol-01.png",
+        "/assets/vendor/animate/animate.css"
       ],
       "patterns": []
     }
@@ -329,15 +320,7 @@
     "/assets/images/icons/icon-google.png": "37f33a9d925088cf025ab328d837ce1ab523752f",
     "/assets/images/icons/map-marker.png": "86d3265114b49a2ea1598cc9af7847fa0268c7e0",
     "/assets/images/icons/symbol-01.png": "c24b62d36b583e8548ba60c90f39427e32f3db93",
-    "/assets/vendor/animate/animate.css": "6030c2d796763c7b610c7538c8d17a252e5f9279",
-    "/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/index.html": "6e40832e28d43c5b58483f6eaaaf5aced2a99d87",
-    "/main.3aa9a18fe7b267497e74.js": "8ab942170dab0698917d3babb278e3d284034563",
-    "/manifest.webmanifest": "caa131c088d206267772e6419146a47303625f8c",
-    "/polyfills-es5.ef26090420eaac08abb3.js": "314b92563f5fb9d4d53ee0b0530bffaaa7102356",
-    "/polyfills.7aa99d0d2d925cfabce1.js": "7d612ac698860d06374188d6ccb5c8cdaf2fa18a",
-    "/runtime.acf0dec4155e77772545.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
-    "/styles.0e4338761429b4eb16ac.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    "/assets/vendor/animate/animate.css": "6030c2d796763c7b610c7538c8d17a252e5f9279"
   },
   "navigationUrls": [
     {
