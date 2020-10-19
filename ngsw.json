@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1603110425081,
+  "timestamp": 1603110534575,
   "index": "https://loteriacba.github.io/01-loteria-apostador-produccion/index.html",
   "assetGroups": [
     {
@@ -18,7 +18,7 @@
         "https://loteriacba.github.io/01-loteria-apostador-produccion/assets/vendor/animate/animate.css",
         "https://loteriacba.github.io/01-loteria-apostador-produccion/favicon.ico",
         "https://loteriacba.github.io/01-loteria-apostador-produccion/index.html",
-        "https://loteriacba.github.io/01-loteria-apostador-produccion/main.7bc871f0a1da86b7a686.js",
+        "https://loteriacba.github.io/01-loteria-apostador-produccion/main.3aa9a18fe7b267497e74.js",
         "https://loteriacba.github.io/01-loteria-apostador-produccion/manifest.webmanifest",
         "https://loteriacba.github.io/01-loteria-apostador-produccion/polyfills-es5.ef26090420eaac08abb3.js",
         "https://loteriacba.github.io/01-loteria-apostador-produccion/polyfills.7aa99d0d2d925cfabce1.js",
@@ -333,8 +333,8 @@
     "https://loteriacba.github.io/01-loteria-apostador-produccion/assets/images/icons/symbol-01.png": "c24b62d36b583e8548ba60c90f39427e32f3db93",
     "https://loteriacba.github.io/01-loteria-apostador-produccion/assets/vendor/animate/animate.css": "6030c2d796763c7b610c7538c8d17a252e5f9279",
     "https://loteriacba.github.io/01-loteria-apostador-produccion/favicon.ico": "4757e521cfb35a3c8c93d3f4a54b5cea8a70c1df",
-    "https://loteriacba.github.io/01-loteria-apostador-produccion/index.html": "23a872cef18333ccfbf018f5926114413395478f",
-    "https://loteriacba.github.io/01-loteria-apostador-produccion/main.7bc871f0a1da86b7a686.js": "3f300b9797cfebe0c359960491e7f38f81f49221",
+    "https://loteriacba.github.io/01-loteria-apostador-produccion/index.html": "e62330c77c4bddda8f0a1875970e315b48aaed79",
+    "https://loteriacba.github.io/01-loteria-apostador-produccion/main.3aa9a18fe7b267497e74.js": "8ab942170dab0698917d3babb278e3d284034563",
     "https://loteriacba.github.io/01-loteria-apostador-produccion/manifest.webmanifest": "caa131c088d206267772e6419146a47303625f8c",
     "https://loteriacba.github.io/01-loteria-apostador-produccion/polyfills-es5.ef26090420eaac08abb3.js": "314b92563f5fb9d4d53ee0b0530bffaaa7102356",
     "https://loteriacba.github.io/01-loteria-apostador-produccion/polyfills.7aa99d0d2d925cfabce1.js": "7d612ac698860d06374188d6ccb5c8cdaf2fa18a",
