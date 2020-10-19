@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1603119982016,
+  "timestamp": 1603120146276,
   "index": "https://loteriacba.github.io/01-loteria-apostador-produccion/index.html",
   "assetGroups": [
     {
@@ -11,6 +11,9 @@
         "ignoreVary": true
       },
       "urls": [
+        "https://loteriacba.github.io/01-loteria-apostador-produccion/assets/css/main.css",
+        "https://loteriacba.github.io/01-loteria-apostador-produccion/assets/css/util.css",
+        "https://loteriacba.github.io/01-loteria-apostador-produccion/assets/fonts/font-awesome-4.7.0/css/font-awesome.min.css",
         "https://loteriacba.github.io/01-loteria-apostador-produccion/assets/images/icons/favicon.ico",
         "https://loteriacba.github.io/01-loteria-apostador-produccion/assets/vendor/animate/animate.css",
         "https://loteriacba.github.io/01-loteria-apostador-produccion/favicon.ico",
@@ -32,8 +35,6 @@
         "ignoreVary": true
       },
       "urls": [
-        "https://loteriacba.github.io/01-loteria-apostador-produccion/assets/css/main.css",
-        "https://loteriacba.github.io/01-loteria-apostador-produccion/assets/css/util.css",
         "https://loteriacba.github.io/01-loteria-apostador-produccion/assets/demo.png",
         "https://loteriacba.github.io/01-loteria-apostador-produccion/assets/favicon.ico",
         "https://loteriacba.github.io/01-loteria-apostador-produccion/assets/fonts/Linearicons-Free-v1.0.0/WebFont/Linearicons-Free.eot",
@@ -44,7 +45,6 @@
         "https://loteriacba.github.io/01-loteria-apostador-produccion/assets/fonts/Linearicons-Free-v1.0.0/icon-font.min.css",
         "https://loteriacba.github.io/01-loteria-apostador-produccion/assets/fonts/font-awesome-4.7.0/HELP-US-OUT.txt",
         "https://loteriacba.github.io/01-loteria-apostador-produccion/assets/fonts/font-awesome-4.7.0/css/font-awesome.css",
-        "https://loteriacba.github.io/01-loteria-apostador-produccion/assets/fonts/font-awesome-4.7.0/css/font-awesome.min.css",
         "https://loteriacba.github.io/01-loteria-apostador-produccion/assets/fonts/font-awesome-4.7.0/fonts/FontAwesome.otf",
         "https://loteriacba.github.io/01-loteria-apostador-produccion/assets/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.eot",
         "https://loteriacba.github.io/01-loteria-apostador-produccion/assets/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.svg",
