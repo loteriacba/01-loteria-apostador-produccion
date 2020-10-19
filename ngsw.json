@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1603126691982,
+  "timestamp": 1603129522267,
   "index": "https://loteriacba.github.io/01-loteria-apostador-produccion/index.html",
   "assetGroups": [
     {
@@ -181,7 +181,23 @@
       "patterns": []
     }
   ],
-  "dataGroups": [],
+  "dataGroups": [
+    {
+      "name": "registro-usuario-api",
+      "patterns": [
+        "https:\\/\\/192\\.168\\.1\\.14\\/client\\/login\\/",
+        "https:\\/\\/192\\.168\\.1\\.14\\/client\\/create\\/"
+      ],
+      "strategy": "freshness",
+      "maxSize": 20,
+      "maxAge": 3600000,
+      "timeoutMs": 5000,
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "version": 1
+    }
+  ],
   "hashTable": {
     "https://loteriacba.github.io/01-loteria-apostador-produccion/assets/css/main.css": "7ee9a0c3fcfe50fa03d75698090f9dd9ce8432cc",
     "https://loteriacba.github.io/01-loteria-apostador-produccion/assets/css/util.css": "1cb5c5c9760ff75c095c00a93ec0887b2f093b94",
