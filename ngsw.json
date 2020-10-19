@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1603114935825,
+  "timestamp": 1603118911427,
   "index": "https://loteriacba.github.io/01-loteria-apostador-produccion/index.html",
   "assetGroups": [
     {
@@ -11,11 +11,6 @@
         "ignoreVary": true
       },
       "urls": [
-        "https://loteriacba.github.io/01-loteria-apostador-produccion/assets/css/main.css",
-        "https://loteriacba.github.io/01-loteria-apostador-produccion/assets/css/util.css",
-        "https://loteriacba.github.io/01-loteria-apostador-produccion/assets/fonts/font-awesome-4.7.0/css/font-awesome.min.css",
-        "https://loteriacba.github.io/01-loteria-apostador-produccion/assets/images/icons/favicon.ico",
-        "https://loteriacba.github.io/01-loteria-apostador-produccion/assets/vendor/animate/animate.css",
         "https://loteriacba.github.io/01-loteria-apostador-produccion/favicon.ico",
         "https://loteriacba.github.io/01-loteria-apostador-produccion/index.html",
         "https://loteriacba.github.io/01-loteria-apostador-produccion/main.3aa9a18fe7b267497e74.js",
@@ -25,9 +20,7 @@
         "https://loteriacba.github.io/01-loteria-apostador-produccion/runtime.acf0dec4155e77772545.js",
         "https://loteriacba.github.io/01-loteria-apostador-produccion/styles.0e4338761429b4eb16ac.css"
       ],
-      "patterns": [
-        "https:\\/\\/stackpath\\.bootstrapcdn\\.com\\/bootstrap\\/.*"
-      ]
+      "patterns": []
     },
     {
       "name": "assets",
@@ -37,6 +30,8 @@
         "ignoreVary": true
       },
       "urls": [
+        "https://loteriacba.github.io/01-loteria-apostador-produccion/assets/css/main.css",
+        "https://loteriacba.github.io/01-loteria-apostador-produccion/assets/css/util.css",
         "https://loteriacba.github.io/01-loteria-apostador-produccion/assets/demo.png",
         "https://loteriacba.github.io/01-loteria-apostador-produccion/assets/favicon.ico",
         "https://loteriacba.github.io/01-loteria-apostador-produccion/assets/fonts/Linearicons-Free-v1.0.0/WebFont/Linearicons-Free.eot",
@@ -47,6 +42,7 @@
         "https://loteriacba.github.io/01-loteria-apostador-produccion/assets/fonts/Linearicons-Free-v1.0.0/icon-font.min.css",
         "https://loteriacba.github.io/01-loteria-apostador-produccion/assets/fonts/font-awesome-4.7.0/HELP-US-OUT.txt",
         "https://loteriacba.github.io/01-loteria-apostador-produccion/assets/fonts/font-awesome-4.7.0/css/font-awesome.css",
+        "https://loteriacba.github.io/01-loteria-apostador-produccion/assets/fonts/font-awesome-4.7.0/css/font-awesome.min.css",
         "https://loteriacba.github.io/01-loteria-apostador-produccion/assets/fonts/font-awesome-4.7.0/fonts/FontAwesome.otf",
         "https://loteriacba.github.io/01-loteria-apostador-produccion/assets/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.eot",
         "https://loteriacba.github.io/01-loteria-apostador-produccion/assets/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.svg",
@@ -168,6 +164,7 @@
         "https://loteriacba.github.io/01-loteria-apostador-produccion/assets/icons/iconos-generados/ms-icon-310x310.png",
         "https://loteriacba.github.io/01-loteria-apostador-produccion/assets/icons/iconos-generados/ms-icon-70x70.png",
         "https://loteriacba.github.io/01-loteria-apostador-produccion/assets/images/demo.png",
+        "https://loteriacba.github.io/01-loteria-apostador-produccion/assets/images/icons/favicon.ico",
         "https://loteriacba.github.io/01-loteria-apostador-produccion/assets/images/icons/icon-128x128.png",
         "https://loteriacba.github.io/01-loteria-apostador-produccion/assets/images/icons/icon-144x144.png",
         "https://loteriacba.github.io/01-loteria-apostador-produccion/assets/images/icons/icon-152x152.png",
@@ -178,7 +175,8 @@
         "https://loteriacba.github.io/01-loteria-apostador-produccion/assets/images/icons/icon-96x96.png",
         "https://loteriacba.github.io/01-loteria-apostador-produccion/assets/images/icons/icon-google.png",
         "https://loteriacba.github.io/01-loteria-apostador-produccion/assets/images/icons/map-marker.png",
-        "https://loteriacba.github.io/01-loteria-apostador-produccion/assets/images/icons/symbol-01.png"
+        "https://loteriacba.github.io/01-loteria-apostador-produccion/assets/images/icons/symbol-01.png",
+        "https://loteriacba.github.io/01-loteria-apostador-produccion/assets/vendor/animate/animate.css"
       ],
       "patterns": []
     }
@@ -281,16 +279,16 @@
     "https://loteriacba.github.io/01-loteria-apostador-produccion/assets/icons/favicon.ico": "2791e30b068f21537e6506a83d2f6c3154ffb052",
     "https://loteriacba.github.io/01-loteria-apostador-produccion/assets/icons/icon-1125x2436.png": "bf47cbb5d9d61356c4194cf98406d866fc1c73e5",
     "https://loteriacba.github.io/01-loteria-apostador-produccion/assets/icons/icon-1242x2208.png": "9ed07ec88ce4ccff9e085466a6c5d2551c48a42f",
-    "https://loteriacba.github.io/01-loteria-apostador-produccion/assets/icons/icon-128x128.png": "ffabb03e1017f9d02efcb38f209bf71fb564aa72",
-    "https://loteriacba.github.io/01-loteria-apostador-produccion/assets/icons/icon-144x144.png": "113dd14d3fc15c166dc5bf433c52a376e5ae7c78",
-    "https://loteriacba.github.io/01-loteria-apostador-produccion/assets/icons/icon-152x152.png": "4ab86fd7aa7b04f4e138f355ecf57a9906434e68",
-    "https://loteriacba.github.io/01-loteria-apostador-produccion/assets/icons/icon-192x192.png": "a25cc802d5a2ca93730d33c5e1bba6733d8c4985",
-    "https://loteriacba.github.io/01-loteria-apostador-produccion/assets/icons/icon-384x384.png": "a277a4adeca5cdb9d9f0ae66325e3ce7d09a58c7",
-    "https://loteriacba.github.io/01-loteria-apostador-produccion/assets/icons/icon-512x512.png": "ac2de6a07190b5c4d29c5c5bd59c6afc5e4bf3c6",
+    "https://loteriacba.github.io/01-loteria-apostador-produccion/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "https://loteriacba.github.io/01-loteria-apostador-produccion/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "https://loteriacba.github.io/01-loteria-apostador-produccion/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "https://loteriacba.github.io/01-loteria-apostador-produccion/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "https://loteriacba.github.io/01-loteria-apostador-produccion/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "https://loteriacba.github.io/01-loteria-apostador-produccion/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
     "https://loteriacba.github.io/01-loteria-apostador-produccion/assets/icons/icon-640x1136.png": "1c3b264f5e949abba7a494758e3b64490d016e7f",
-    "https://loteriacba.github.io/01-loteria-apostador-produccion/assets/icons/icon-72x72.png": "41ce119b730d44b8f932af18d4d74467f5028ec3",
+    "https://loteriacba.github.io/01-loteria-apostador-produccion/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "https://loteriacba.github.io/01-loteria-apostador-produccion/assets/icons/icon-750x1334.png": "9f22e97ccf36be899ac26d9005a62152fcee16e7",
-    "https://loteriacba.github.io/01-loteria-apostador-produccion/assets/icons/icon-96x96.png": "65cb46cd422f8264f9bd9cc6177f4ba8f6e4bf13",
+    "https://loteriacba.github.io/01-loteria-apostador-produccion/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "https://loteriacba.github.io/01-loteria-apostador-produccion/assets/icons/iconos-generados/android-icon-144x144.png": "508f9f74501804a0398a3b69a7877598d17385dc",
     "https://loteriacba.github.io/01-loteria-apostador-produccion/assets/icons/iconos-generados/android-icon-192x192.png": "5d4169c4e023ec5d2e6b1d8dcbe9b8d4f966e13c",
     "https://loteriacba.github.io/01-loteria-apostador-produccion/assets/icons/iconos-generados/android-icon-36x36.png": "f8c0897844fa0d6b6d65c7bb30c698b6a0591956",
