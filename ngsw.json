@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1603242862642,
+  "timestamp": 1603243267222,
   "index": "https://loteriacba.github.io/01-loteria-apostador-produccion/index.html",
   "assetGroups": [
     {
@@ -201,7 +201,8 @@
       "name": "registro-usuario-api",
       "patterns": [
         "https:\\/\\/192\\.168\\.1\\.14\\/client\\/login\\/",
-        "https:\\/\\/192\\.168\\.1\\.14\\/client\\/create\\/"
+        "https:\\/\\/192\\.168\\.1\\.14\\/client\\/create\\/",
+        "https:\\/\\/loteriacba\\.github\\.io\\/01-loteria-apostador-produccion\\/https:\\/servicios-qa\\.gcba\\.gob\\.ar\\/participantes\\/renaper\\/api\\/consulta"
       ],
       "strategy": "freshness",
       "maxSize": 20,
