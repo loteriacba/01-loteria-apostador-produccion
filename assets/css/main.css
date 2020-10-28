@@ -155,7 +155,7 @@ iframe {
 
 .txt1 {
     font-family: Ubuntu-Regular;
-    font-size: 13px;
+    font-size: 12px;
     color: #827ffe;
     line-height: 1.4;
 }
@@ -232,7 +232,7 @@ iframe {
     font-family: Ubuntu-Bold;
     color: #403866;
     line-height: 1.2;
-    font-size: 14px;
+    font-size: 12px;
     display: block;
     width: 100%;
     background: transparent;
@@ -297,7 +297,7 @@ iframe {
 
 .label-checkbox100 {
     font-family: Ubuntu-Regular;
-    font-size: 16px;
+    font-size: 12px;
     color: #999999;
     line-height: 1.2;
     display: block;
@@ -353,7 +353,7 @@ iframe {
 
 .login100-form-btn {
     font-family: Ubuntu-Bold;
-    font-size: 16px;
+    font-size: 12px;
     color: #fff;
     line-height: 1.2;
     text-transform: uppercase;
@@ -405,7 +405,7 @@ iframe {
     pointer-events: none;
     font-family: Ubuntu-Regular;
     color: #c80000;
-    font-size: 14px;
+    font-size: 12px;
     line-height: 1.4;
     text-align: left;
     visibility: hidden;
@@ -422,7 +422,7 @@ iframe {
     display: block;
     position: absolute;
     color: #c80000;
-    font-size: 18px;
+    font-size: 14px;
     top: 50%;
     -webkit-transform: translateY(-50%);
     -moz-transform: translateY(-50%);
