@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1604010966063,
+  "timestamp": 1604012172573,
   "index": "https://loteriacba.github.io/01-loteria-apostador-produccion/index.html",
   "assetGroups": [
     {
@@ -191,7 +191,8 @@
       "name": "registro-usuario-api",
       "patterns": [
         "https:\\/\\/192\\.168\\.1\\.14\\/client\\/login\\/",
-        "https:\\/\\/192\\.168\\.1\\.14\\/client\\/create\\/"
+        "https:\\/\\/192\\.168\\.1\\.14\\/client\\/create\\/",
+        "https:\\/\\/wsfe\\.cunix\\.net\\/factura_electronica\\/backend-server-php\\/.*"
       ],
       "strategy": "freshness",
       "maxSize": 20,
