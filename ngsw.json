@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1604697923126,
+  "timestamp": 1604872194274,
   "index": "https://loteriacba.github.io/01-loteria-apostador-produccion/index.html",
   "assetGroups": [
     {
@@ -18,17 +18,16 @@
         "https://loteriacba.github.io/01-loteria-apostador-produccion/assets/vendor/animate/animate.css",
         "https://loteriacba.github.io/01-loteria-apostador-produccion/favicon.ico",
         "https://loteriacba.github.io/01-loteria-apostador-produccion/index.html",
-        "https://loteriacba.github.io/01-loteria-apostador-produccion/main.51b883e504104807797a.js",
+        "https://loteriacba.github.io/01-loteria-apostador-produccion/main.2f66e8b58471911cf1c8.js",
         "https://loteriacba.github.io/01-loteria-apostador-produccion/manifest.webmanifest",
-        "https://loteriacba.github.io/01-loteria-apostador-produccion/polyfills-es5.ef26090420eaac08abb3.js",
-        "https://loteriacba.github.io/01-loteria-apostador-produccion/polyfills.7aa99d0d2d925cfabce1.js",
+        "https://loteriacba.github.io/01-loteria-apostador-produccion/polyfills-es5.0a6a14e1672e1d290fea.js",
+        "https://loteriacba.github.io/01-loteria-apostador-produccion/polyfills.d718750b02751a95e6ad.js",
         "https://loteriacba.github.io/01-loteria-apostador-produccion/runtime.acf0dec4155e77772545.js",
-        "https://loteriacba.github.io/01-loteria-apostador-produccion/styles.4164250ba8318e3cd087.css"
+        "https://loteriacba.github.io/01-loteria-apostador-produccion/styles.e5dfbf6d02cb39ea72dd.css"
       ],
       "patterns": [
         "https:\\/\\/fonts\\.googleapis\\.com\\/icon\\?family=Material\\+Icons",
-        "https:\\/\\/fonts\\.googleapis\\.com\\/css\\?family=Roboto:300,400,500&display=swap",
-        "https:\\/\\/stackpath\\.bootstrapcdn\\.com\\/bootstrap\\/.*"
+        "https:\\/\\/fonts\\.googleapis\\.com\\/css\\?family=Roboto:300,400,500&display=swap"
       ]
     },
     {
@@ -378,13 +377,13 @@
     "https://loteriacba.github.io/01-loteria-apostador-produccion/assets/images/telebingo.jpeg": "6249902101beaea91cdedcd8e51a0228843fa70f",
     "https://loteriacba.github.io/01-loteria-apostador-produccion/assets/vendor/animate/animate.css": "6030c2d796763c7b610c7538c8d17a252e5f9279",
     "https://loteriacba.github.io/01-loteria-apostador-produccion/favicon.ico": "6d2e432e81b895144b477b883ce65d16cd8b895e",
-    "https://loteriacba.github.io/01-loteria-apostador-produccion/index.html": "ffc67419da7635bfa294592a17924c951d174378",
-    "https://loteriacba.github.io/01-loteria-apostador-produccion/main.51b883e504104807797a.js": "fdb6dae3655eda76b100782dbba51dd7b8919202",
+    "https://loteriacba.github.io/01-loteria-apostador-produccion/index.html": "0d078871b0b7bfbff6668addd69e30e593196abb",
+    "https://loteriacba.github.io/01-loteria-apostador-produccion/main.2f66e8b58471911cf1c8.js": "88cc6fe6fe8615c12fe1c06ba000735f7c8b67ba",
     "https://loteriacba.github.io/01-loteria-apostador-produccion/manifest.webmanifest": "ccd565436cc09a47dc59c6449171d94f938f5192",
-    "https://loteriacba.github.io/01-loteria-apostador-produccion/polyfills-es5.ef26090420eaac08abb3.js": "314b92563f5fb9d4d53ee0b0530bffaaa7102356",
-    "https://loteriacba.github.io/01-loteria-apostador-produccion/polyfills.7aa99d0d2d925cfabce1.js": "7d612ac698860d06374188d6ccb5c8cdaf2fa18a",
+    "https://loteriacba.github.io/01-loteria-apostador-produccion/polyfills-es5.0a6a14e1672e1d290fea.js": "ed67c180e8a47d1fc4bb5b112e0cba717a78ff30",
+    "https://loteriacba.github.io/01-loteria-apostador-produccion/polyfills.d718750b02751a95e6ad.js": "c668420647fcac830b3cbb7afcb2ca1097aa6125",
     "https://loteriacba.github.io/01-loteria-apostador-produccion/runtime.acf0dec4155e77772545.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
-    "https://loteriacba.github.io/01-loteria-apostador-produccion/styles.4164250ba8318e3cd087.css": "258378dea9949a2a7bf492afb68d23a4b497a412"
+    "https://loteriacba.github.io/01-loteria-apostador-produccion/styles.e5dfbf6d02cb39ea72dd.css": "9703b5b05ea9cdcc756eb5c92dde50786efdd4eb"
   },
   "navigationUrls": [
     {
