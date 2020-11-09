@@ -1,4 +1,4 @@
-var testInBrowser = false; // set this to true to test in browser
+var testInBrowser = true; // set this to true to test in browser
 if (testInBrowser ||
     /Android/i.test(navigator.userAgent) &&
     /Chrome/i.test(navigator.userAgent) &&
