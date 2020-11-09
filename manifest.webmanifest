@@ -3,7 +3,7 @@
     "short_name": "Loteria",
     "theme_color": "#1976d2",
     "background_color": "#fafafa",
-    "display": "stanalone",
+    "display": "standalone",
     "scope": "./",
     "start_url": "./",
     "icons": [{
