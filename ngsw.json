@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1605667006140,
+  "timestamp": 1605667299486,
   "index": "https://loteriacba.github.io/01-loteria-apostador-produccion/index.html",
   "assetGroups": [
     {
@@ -209,7 +209,8 @@
       "patterns": [
         "https:\\/\\/192\\.168\\.1\\.14\\/client\\/login\\/",
         "https:\\/\\/192\\.168\\.1\\.14\\/client\\/create\\/",
-        "https:\\/\\/wsfe\\.cunix\\.net\\/factura_electronica\\/backend-server-php\\/.*"
+        "https:\\/\\/wsfe\\.cunix\\.net\\/factura_electronica\\/backend-server-php\\/.*",
+        "https:\\/\\/www\\.prevenciondelavado\\.com\\/listas\\/api\\/busqueda\\/"
       ],
       "strategy": "freshness",
       "maxSize": 20,
