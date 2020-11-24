@@ -167,6 +167,7 @@ iframe {
 .limiter {
     width: 100%;
     margin: 0 auto;
+    padding: 6px;
 }
 
 .container-login100 {
